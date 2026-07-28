@@ -8,8 +8,6 @@ The core objective of K.A.M.P.A. goes beyond mere convenience; it aims to drasti
 
 ## Roadmap
 
-## Roadmap
-
 - [x] **Phase 1: Core Interface** - Deployment of a simple, terminal-based voice chatbot.
 - [ ] **Phase 2: Cognitive Engine** - Implementation of persistent memory, real-time knowledge updates, and personalized responses.
 - [ ] **Phase 3: Tool Integration** - Expanding capabilities with external APIs (e.g., web search, weather forecasting).
